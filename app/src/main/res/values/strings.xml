@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Mi aplicacion</string>
+    <string name="txtBienvenida">Welcome</string>
+</resources>
